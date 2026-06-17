@@ -18,8 +18,8 @@ An educational project created as part of the freeCodeCamp "Relational Database"
 * Practiced database administration basics, including generating logical database dumps using `pg_dump` for project porting.
 
 ### Project Structure
-* `bikes.sql` — database dump file containing the complete table structures, constraints, and initial data.
-* `bike-shop.sh` — interactive Bash script that serves as the main command-line interface for renting and returning bikes.
+* `bikes.sql` - database dump file containing the complete table structures, constraints, and initial data.
+* `bike-shop.sh` - interactive Bash script that serves as the main command-line interface for renting and returning bikes.
 
 ---
 
@@ -41,5 +41,5 @@ An educational project created as part of the freeCodeCamp "Relational Database"
 * Работать с инструментами администрирования баз данных, в частности, создавать дампы базы данных через `pg_dump` для переноса проекта.
 
 ### Структура проекта
-* `bikes.sql` — дамп базы данных, содержащий всю структуру таблиц, связи, ограничения и начальные данные.
-* `bike-shop.sh` — основной интерактивный Bash-скрипт, представляющий собой консольный интерфейс для оформления аренды и возврата велосипедов.
+* `bikes.sql` - дамп базы данных, содержащий всю структуру таблиц, связи, ограничения и начальные данные.
+* `bike-shop.sh` - основной интерактивный Bash-скрипт, представляющий собой консольный интерфейс для оформления аренды и возврата велосипедов.
